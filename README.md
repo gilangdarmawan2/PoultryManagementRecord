@@ -1,7 +1,8 @@
 1.	Deskripsi program 
-Dapat dilihat dari bisnis plan yang kami kerjakan yaitu Poultry Management Record yang bergerak dibidang sistem pencatatan.
-Pada program kami berupa website yang menawarkan jasa pendataan produksi ternak unggas.
-Kami membuat website ini bertujuan mempermudah peternak unggas dalam melakukan pendataan hasil produksi ternak mereka.
+
+       Dapat dilihat dari bisnis plan yang kami kerjakan yaitu Poultry Management Record yang bergerak dibidang sistem pencatatan.
+       Pada program kami berupa website yang menawarkan jasa pendataan produksi ternak unggas.
+       Kami membuat website ini bertujuan mempermudah peternak unggas dalam melakukan pendataan hasil produksi ternak mereka.
 
 2.	A. Theme
        Tema yang kami gunakan untuk website kami adalah “DeskApp” dari web template https://themewagon.com/
@@ -10,10 +11,12 @@ Kami membuat website ini bertujuan mempermudah peternak unggas dalam melakukan p
        Fitur yang ada didalam website kami adalah tentang pencatatan hasil produksi ayam petelur. Dimana fitur ini dapat menampilkan data yang di inputkan berupa tabel, dapat            menambahkan data, dapat mengedit data, dapat menghapus data. Dan kami juga menyediakan fitur register dan login untuk user.
 
 3.	Installation
-Dalam installasi website kami, kami tidak menggunakan CMS. Di Website ini kami menggunakan framework laravel untuk mengelola data seperti tambah data, edit data, hapus data, tampil data. login dan registrasi user.
+
+       Dalam installasi website kami, kami tidak menggunakan CMS. Di Website ini kami menggunakan framework laravel untuk mengelola data seperti tambah data, edit data,                hapus data, tampil data. Dan juga untuk mengelola fitur login dan registrasi user.
 
 4.	Configuration 
-Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server lokal untuk development website kami. Untuk domain yang kemungkinan besar kami gunakan yaitu  “ternakunggas.com”
+
+       Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server lokal untuk development website kami. Untuk domain yang kemungkinan besar kami gunakan            yaitu  “ternakunggas.com”
 
 5.	Copyright
 
