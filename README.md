@@ -6,7 +6,7 @@ Kami membuat website ini bertujuan mempermudah peternak unggas dalam melakukan p
 2.	A. Theme
        Tema yang kami gunakan untuk website kami adalah “DeskApp” dari web template https://themewagon.com/
 
-    B. Penggunaan fitur
+       B. Penggunaan fitur
        Fitur yang ada didalam website kami adalah tentang pencatatan hasil produksi ayam petelur. Dimana fitur ini dapat menampilkan data yang di inputkan berupa tabel, dapat            menambahkan data, dapat mengedit data, dapat menghapus data. Dan kami juga menyediakan fitur register dan login untuk user.
 
 3.	Installation
@@ -17,20 +17,20 @@ Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server l
 
 5.	Copyright
 
-Copyright(c) 2022
+       Copyright(c) 2022
 
-•	Kewirausahaan Berbasis Teknologi
+       •	Kewirausahaan Berbasis Teknologi
 
-•	Poultry Management Records
+       •	Poultry Management Records
 
-  Muhammad Vijar Yudadharma (202010370311477)
-  
-  Gilang Dwi Darmawan       (202010370311487)
-  
-  Haidar Aldy Eka Nugraha   (202010370311509)
-  
-  
-•	Syaifuddin,.S.kom,.M.kom
+              Muhammad Vijar Yudadharma (202010370311477)
 
-•	Universitas Muhammadiyah Malang
+              Gilang Dwi Darmawan       (202010370311487)
+
+              Haidar Aldy Eka Nugraha   (202010370311509)
+
+
+       •	Syaifuddin,.S.kom,.M.kom
+
+       •	Universitas Muhammadiyah Malang
 
