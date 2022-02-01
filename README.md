@@ -17,10 +17,16 @@ Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server l
 
 5.	Copyright
 Copyright(c) 2022
+
 •	Kewirausahaan Berbasis Teknologi
+
 •	Poultry Management Records
+
   Muhammad Vijar Yudadharma (202010370311477)
   Gilang Dwi Darmawan       (202010370311487)
   Haidar Aldy Eka Nugraha   (202010370311509)
+  
 •	Syaifuddin,.S.kom,.M.kom
+
 •	Universitas Muhammadiyah Malang
+
