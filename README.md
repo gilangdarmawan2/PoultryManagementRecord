@@ -4,13 +4,13 @@ Pada program kami berupa website yang menawarkan jasa pendataan produksi ternak 
 Kami membuat website ini bertujuan mempermudah peternak unggas dalam melakukan pendataan hasil produksi ternak mereka.
 
 2.	A. Theme
-Tema yang kami gunakan untuk website kami adalah “DeskApp” dari web template https://themewagon.com/
+       Tema yang kami gunakan untuk website kami adalah “DeskApp” dari web template https://themewagon.com/
 
-B. Penggunaan fitur
-Fitur yang ada didalam website kami adalah tentang pencatatan hasil produksi ayam petelur. Dimana fitur ini menampilkan data yang di inputkan berupa tabel dan dapat menambahkan data
+    B. Penggunaan fitur
+       Fitur yang ada didalam website kami adalah tentang pencatatan hasil produksi ayam petelur. Dimana fitur ini dapat menampilkan data yang di inputkan berupa tabel, dapat            menambahkan data, dapat mengedit data, dapat menghapus data. Dan kami juga menyediakan fitur register dan login untuk user.
 
 3.	Installation
-Dalam installasi website kami, kami tidak menggunakan CMS. Di Website ini kami menggunakan framework laravel 
+Dalam installasi website kami, kami tidak menggunakan CMS. Di Website ini kami menggunakan framework laravel untuk mengelola data seperti tambah data, edit data, hapus data, tampil data. login dan registrasi user.
 
 4.	Configuration 
 Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server lokal untuk development website kami. Untuk domain yang kemungkinan besar kami gunakan yaitu  “ternakunggas.com”
@@ -18,9 +18,9 @@ Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server l
 5.	Copyright
 Copyright(c) 2022
 •	Kewirausahaan Berbasis Teknologi
-•	“Poultry Management Records”
-Muhammad Vijar Yudadharma (202010370311477)
-Gilang Dwi Darmawan (202010370311487)
-Haidar Aldy Eka Nugraha (202010370311509)
+•	Poultry Management Records
+  Muhammad Vijar Yudadharma (202010370311477)
+  Gilang Dwi Darmawan       (202010370311487)
+  Haidar Aldy Eka Nugraha   (202010370311509)
 •	Syaifuddin,.S.kom,.M.kom
 •	Universitas Muhammadiyah Malang
