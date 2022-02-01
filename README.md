@@ -16,6 +16,7 @@ Dalam installasi website kami, kami tidak menggunakan CMS. Di Website ini kami m
 Untuk configurasinya sendiri kami mungganakan Apache Web Server sebagai server lokal untuk development website kami. Untuk domain yang kemungkinan besar kami gunakan yaitu  “ternakunggas.com”
 
 5.	Copyright
+
 Copyright(c) 2022
 
 •	Kewirausahaan Berbasis Teknologi
@@ -23,8 +24,11 @@ Copyright(c) 2022
 •	Poultry Management Records
 
   Muhammad Vijar Yudadharma (202010370311477)
+  
   Gilang Dwi Darmawan       (202010370311487)
+  
   Haidar Aldy Eka Nugraha   (202010370311509)
+  
   
 •	Syaifuddin,.S.kom,.M.kom
 
